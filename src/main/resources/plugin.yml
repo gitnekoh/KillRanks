@@ -1,0 +1,3 @@
+name: KillRanks
+version: ${project.version}
+main: me.nekoh.killranks.KillRanks

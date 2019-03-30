@@ -1,0 +1,7 @@
+prefix: true
+dataType: FLATFILE
+mongoLink: ""
+ranks:
+  sergeant:
+    prefix: "&7[&cSergeant&7]&r"
+    killsNeeded: 5
